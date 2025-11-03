@@ -39,15 +39,6 @@ python src/heartbeat.py
 python src/checker.py
 ```
 
-## 🔐 GitHub Secrets
-
-| Secret | Example |
-|--------|----------|
-| SMTP_HOST | smtp.gmail.com |
-| SMTP_PORT | 587 |
-| SMTP_USER | your_email@gmail.com |
-| SMTP_PASS | your_app_password |
-
 ## 🧱 License
 
 MIT License
